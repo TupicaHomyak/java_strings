@@ -1,5 +1,4 @@
 package practice.string;
-import java.util.Scanner;
 
 public class SequentialWordsNumbers {
     public static String sequentialWordsNumbers(String text){
